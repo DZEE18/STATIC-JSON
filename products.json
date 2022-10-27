@@ -4,7 +4,7 @@
             "name": "Chair",
             "price": "320.00",
             "quantity": "3",
-            "imageUrl": "",
+            "imageUrl": "https://images.meesho.com/images/products/89867327/hh4s5_512.jpg",
             "assetBundle": "https://eec-dev.obs.ap-southeast-3.myhuaweicloud.com/Dev/chair",
             "assetName": "chair"
         },
@@ -12,7 +12,7 @@
             "name": "Table",
             "price": "670.00",
             "quantity": "5",
-            "imageUrl": "",
+            "imageUrl": "https://m.media-amazon.com/images/I/71D9ImsvEtL._UY500_.jpg",
             "assetBundle": "https://eec-dev.obs.ap-southeast-3.myhuaweicloud.com/Dev/table",
             "assetName": "table"
         }
