@@ -1,100 +1,20 @@
 {
     "Items": [
         {
-            "name": "Bacan Canvas Black Casual Shoes For Men",
+            "name": "Chair",
             "price": "320.00",
             "quantity": "3",
-            "size": "41",
-            "imageUrl": "https://images.meesho.com/images/products/89867327/hh4s5_512.jpg",
-            "description": "Let's take a moment to honor an icon. Is it the gravity-defying B-ball legend from the '80s? Or perhaps the status shoe that adorned the feet of rappers? Both, in fact. The adidas Forum shoes have dominated the hardwood and the streets, and they're back in a mid top version to take your moves to the next level. Slip into the unmistakable style, now in luxurious coated leather, and flaunt that pure class."
+            "imageUrl": "",
+            "assetBundle": "https://eec-dev.obs.ap-southeast-3.myhuaweicloud.com/Dev/chair",
+            "assetName": "chair"
         },
         {
-            "name": "WORLD WEAR FOOTWEAR Men Red-1243 Sports Shoes",
+            "name": "Table",
             "price": "670.00",
             "quantity": "5",
-            "size": "42",
-            "imageUrl": "https://m.media-amazon.com/images/I/71D9ImsvEtL._UY500_.jpg",
-            "description": "These adidas shoes bring the athletic style of running footwear to your everyday look. Move confidently through your day in a comfortably snug fit and a lightweight midsole that provides all-day cushioning underfoot."
-        },
-        {
-            "name": "Students Flat Shoes Wild Casual Shoes",
-            "price": "78.88",
-            "quantity": "7",
-            "size": "L",
-            "imageUrl": "https://canary.contestimg.wish.com/api/webimage/5e357b5a1f93b109091ca0ae-large.jpg",
-            "description": "Why should you settle for anything less than outrageously comfortable? The adidas NMD_R1 shoes ensure you don't have to, packing running-shoe technology into a daily pair. As you answer the call of city adventures, you'll have responsive BOOST cushioning and a soft knit upper giving feet a heel-to-toe hug. We don't expect you to compromise on style either. These sleek shoes evolve an '80s design."
-        },
-        {
-            "name": "Students Flat Shoes Wild Casual Shoes",
-            "price": "78.88",
-            "quantity": "4",
-            "size": "L",
-            "imageUrl": "https://canary.contestimg.wish.com/api/webimage/5e357b5a1f93b109091ca0ae-large.jpg",
-            "description": "These adidas shoes bring the athletic style of running footwear to your everyday look. Move confidently through your day in a comfortably snug fit and a lightweight midsole that provides all-day cushioning underfoot."
-        },
-        {
-            "name": "FORUM MID SHOES",
-            "price": "110.00",
-            "quantity": "15",
-            "size": "M7/M8",
-            "imageUrl": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c7227d99699243099c24ac5e00406c2c_9366/Forum_Mid_Shoes_White_FY4976_01_standard.jpg",
-            "description": "Let's take a moment to honor an icon. Is it the gravity-defying B-ball legend from the '80s? Or perhaps the status shoe that adorned the feet of rappers? Both, in fact. The adidas Forum shoes have dominated the hardwood and the streets, and they're back in a mid top version to take your moves to the next level. Slip into the unmistakable style, now in luxurious coated leather, and flaunt that pure class."
-        },
-        {
-            "name": "Students Flat Shoes Wild Casual Shoes",
-            "price": "78.88",
-            "quantity": "7",
-            "size": "L",
-            "imageUrl": "https://canary.contestimg.wish.com/api/webimage/5e357b5a1f93b109091ca0ae-large.jpg",
-            "description": "Why should you settle for anything less than outrageously comfortable? The adidas NMD_R1 shoes ensure you don't have to, packing running-shoe technology into a daily pair. As you answer the call of city adventures, you'll have responsive BOOST cushioning and a soft knit upper giving feet a heel-to-toe hug. We don't expect you to compromise on style either. These sleek shoes evolve an '80s design."
-        },
-        {
-            "name": "Students Flat Shoes Wild Casual Shoes",
-            "price": "78.88",
-            "quantity": "4",
-            "size": "L",
-            "imageUrl": "https://canary.contestimg.wish.com/api/webimage/5e357b5a1f93b109091ca0ae-large.jpg",
-            "description": "These adidas shoes bring the athletic style of running footwear to your everyday look. Move confidently through your day in a comfortably snug fit and a lightweight midsole that provides all-day cushioning underfoot."
-        },
-        {
-            "name": "FORUM MID SHOES",
-            "price": "110.00",
-            "quantity": "15",
-            "size": "M7/M8",
-            "imageUrl": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c7227d99699243099c24ac5e00406c2c_9366/Forum_Mid_Shoes_White_FY4976_01_standard.jpg",
-            "description": "Let's take a moment to honor an icon. Is it the gravity-defying B-ball legend from the '80s? Or perhaps the status shoe that adorned the feet of rappers? Both, in fact. The adidas Forum shoes have dominated the hardwood and the streets, and they're back in a mid top version to take your moves to the next level. Slip into the unmistakable style, now in luxurious coated leather, and flaunt that pure class."
-        },
-        {
-            "name": "Bacan Canvas Black Casual Shoes For Men",
-            "price": "320.00",
-            "quantity": "3",
-            "size": "41",
-            "imageUrl": "https://images.meesho.com/images/products/89867327/hh4s5_512.jpg",
-            "description": "Let's take a moment to honor an icon. Is it the gravity-defying B-ball legend from the '80s? Or perhaps the status shoe that adorned the feet of rappers? Both, in fact. The adidas Forum shoes have dominated the hardwood and the streets, and they're back in a mid top version to take your moves to the next level. Slip into the unmistakable style, now in luxurious coated leather, and flaunt that pure class."
-        },
-        {
-            "name": "WORLD WEAR FOOTWEAR Men Red-1243 Sports Shoes",
-            "price": "670.00",
-            "quantity": "5",
-            "size": "42",
-            "imageUrl": "https://m.media-amazon.com/images/I/71D9ImsvEtL._UY500_.jpg",
-            "description": "These adidas shoes bring the athletic style of running footwear to your everyday look. Move confidently through your day in a comfortably snug fit and a lightweight midsole that provides all-day cushioning underfoot."
-        },
-        {
-            "name": "Students Flat Shoes Wild Casual Shoes",
-            "price": "78.88",
-            "quantity": "7",
-            "size": "L",
-            "imageUrl": "https://canary.contestimg.wish.com/api/webimage/5e357b5a1f93b109091ca0ae-large.jpg",
-            "description": "Why should you settle for anything less than outrageously comfortable? The adidas NMD_R1 shoes ensure you don't have to, packing running-shoe technology into a daily pair. As you answer the call of city adventures, you'll have responsive BOOST cushioning and a soft knit upper giving feet a heel-to-toe hug. We don't expect you to compromise on style either. These sleek shoes evolve an '80s design."
-        },
-        {
-            "name": "Students Flat Shoes Wild Casual Shoes",
-            "price": "78.88",
-            "quantity": "4",
-            "size": "L",
-            "imageUrl": "https://canary.contestimg.wish.com/api/webimage/5e357b5a1f93b109091ca0ae-large.jpg",
-            "description": "These adidas shoes bring the athletic style of running footwear to your everyday look. Move confidently through your day in a comfortably snug fit and a lightweight midsole that provides all-day cushioning underfoot."
+            "imageUrl": "",
+            "assetBundle": "https://eec-dev.obs.ap-southeast-3.myhuaweicloud.com/Dev/table",
+            "assetName": "table"
         }
     ]
 }
