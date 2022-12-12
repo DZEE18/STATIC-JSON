@@ -1,0 +1,40 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "name": "Furniture",
+            "childs": [
+                {
+                    "id": 2,
+                    "name": "Table"
+                },
+                {
+                    "id": 3,
+                    "name": "Desk"
+                },
+                {
+                    "id": 4,
+                    "name": "Chair"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Kitchen",
+            "childs": [
+                {
+                    "id": 6,
+                    "name": "Sinks"
+                },
+                {
+                    "id": 7,
+                    "name": "Cooker Hoods"
+                },
+                {
+                    "id": 8,
+                    "name": "Pots"
+                }
+            ]
+        }
+    ]
+}
