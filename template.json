@@ -21,7 +21,27 @@
             "thumbnail": "https://www.kilz.com/blog/wp-content/uploads//2021/01/Modern-Blue-Farmhouse-Kitchen-Header.jpg"
         },
         {
-            "id": 4,
+            "id": 5,
+            "name": "Blue Kitchen Cabinet",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXQhL5XPSPw9vkenMSrcmTrCsjUifx8G9Sg&usqp=CAU"
+        },
+{
+            "id": 6,
+            "name": "21 Kitchen",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzkW8pwEeSc4zRSQduObKU1FwM9aYAOHO4DmxpuKtzCVz2TD1ktzaz__2V8h4o0khH-g&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "name": "Kitchen Trends",
+            "thumbnail": "https://images.squarespace-cdn.com/content/v1/5358c6dbe4b090d1c9b457db/1578218616821-O28FGDYYMUBIND47LQXT/Bespoke-Blue-Kitchen-Windsor.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Blue Modern Kitchen",
+            "thumbnail": "https://www.kilz.com/blog/wp-content/uploads//2021/01/Modern-Blue-Farmhouse-Kitchen-Header.jpg"
+        },
+        {
+            "id": 9,
             "name": "Blue Kitchen Cabinet",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXQhL5XPSPw9vkenMSrcmTrCsjUifx8G9Sg&usqp=CAU"
         }
